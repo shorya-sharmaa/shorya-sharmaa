@@ -68,7 +68,7 @@ I'm a **Data Analyst** with **6 months of internship experience** in data analys
 - Answered business-style questions around genres, ratings, release years, countries, and content distribution.
 - Designed the analysis as a portfolio project focused on practical SQL and data analyst skills.
 
-**🔗 Repository:** Add your Netflix SQL repository link here
+**🔗 Repository:** https://github.com/shorya-sharmaa/netflix-content-analysis-sql
 
 ---
 
@@ -81,7 +81,7 @@ I'm a **Data Analyst** with **6 months of internship experience** in data analys
 - Analyzed sales by category, gender, month, and customer purchasing patterns.
 - Identified business insights from transaction-level data.
 
-**🔗 Repository:** Add your Retail Sales repository link here
+**🔗 Repository:** [Add your Retail Sales repository link here](https://github.com/shorya-sharmaa/Retail-Sales-Analysis)
 
 ---
 
