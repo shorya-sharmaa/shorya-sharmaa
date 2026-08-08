@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel
 
-I'm an aspiring Data Analyst passionate about transforming data into meaningful business insights.
+> Turning data into meaningful insights and business decisions.
 
 ## 🛠️ Skills
 
